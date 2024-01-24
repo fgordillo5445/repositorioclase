@@ -1,2 +1,2 @@
 # repositorioclase
-parctica
+practica
